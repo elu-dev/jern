@@ -17,12 +17,17 @@ cd ..
 ```
 
 ## How to use it
-Start the server by running
+- Start the server by running
 ```
 node .\server\main.js 
 ```
-Start the client app by running
+- Start the client app by running
 ```
 cd .\client
 npm start
+```
+or by creating a build
+```
+cd .\client
+npm run build
 ```
